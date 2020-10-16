@@ -1,0 +1,2 @@
+# Nova
+Subtitle comparison system
